@@ -6,7 +6,7 @@ Using `Q learning`, a type of Reinforcement Learning to make a simple `GameBot`.
 
 This bot is an example of a type of [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) called [Q learning](https://en.wikipedia.org/wiki/Q-learning). 
 
-	● Rules: The agent (yellow box) has to reach one of the goals to end the game (green or red cell).
+	● Rules: The agent (yellow box) has to reach one of the goals to end the game (green or red cell). The black cells are the obstacles and the gray cells are hills.
 	● Rewards: Each step gives a negative reward of -0.04. The red cell gives a negative reward of -1. The green one gives a positive reward of +1.
 	● States: Each cell is a state the agent can be.
 	● Actions: There are only 4 actions. Up, Down, Right, Left.
