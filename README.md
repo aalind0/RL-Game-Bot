@@ -11,6 +11,10 @@ This bot is an example of a type of [reinforcement learning](https://en.wikipedi
 	● States: Each cell is a state the agent can be.
 	● Actions: There are only 4 actions. Up, Down, Right, Left.
 
+Here is the screenshot of the game -
+------------------------------------
+![Alt text](/game_world.JPG "Gaming environment.")
+
 ##Dependencies
 
 None! Native Python
