@@ -21,4 +21,4 @@ None! Native Python
 
 ##Usage
 
-Run `python Learner.py` in terminal to see the the bot in action. It'll find the optimal strategy pretty fast (like in `15 seconds`).
+Run `python Learner.py` in terminal to see the bot in action. It'll find the optimal strategy pretty fast (like in `15 seconds`).
